@@ -29,7 +29,7 @@ in Data Science
 ***
 Made By **Camila D'Angelo**
 
-- 🔭 I’m currently working on DS community
+- 🔭 I’m currently working on DS community and Data Science Academy
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me: 
 [LinkeldIn](https://www.linkedin.com/in/camiladangelotempesta/)
