@@ -21,15 +21,16 @@ in Data Science
 
 ## 2. Laboratories
 
-|               | **Project**        | **Scopo**                                | **Business Question**           |**Dataset**           |
+|               | **Project**        | **Scopo**                                | **Business Question**           |                      |
 |:--------------|:-------------------|:-----------------------------------------|:--------------------------------|:---------------------|
-| **Lab_01**    | ANOVA | ANOVA (Analysis of Variance) is a statistical test used to verify if the "AVERAGES" of two or more groups are significantly different from each other. Usually the ANOVA will be applied to compare more than 2 groups. ANOVA is similar to the t test (which we will see in another Statistics in Practice), the difference is that if you want to compare more than two groups will use ANOVA.  | A pharmaceutical company tested three formulations of a drug for pain relief for headache sufferers (specifically migraine). For the experiment, 27 volunteers were selected and 9 were randomly assigned to a of the three drug formulations. Subjects were instructed to take the drug during the next episode of migraine and report your pain on a scale of 1 to 10 (10 being the strongest pain). | []() |
+| **Lab_01**    | ANOVA | ANOVA (Analysis of Variance) is a statistical test used to verify if the "AVERAGES" of two or more groups are significantly different from each other. Usually the ANOVA will be applied to compare more than 2 groups. ANOVA is similar to the t test (which we will see in another Statistics in Practice), the difference is that if you want to compare more than two groups will use ANOVA.  | A pharmaceutical company tested three formulations of a drug for pain relief for headache sufferers (specifically migraine). For the experiment, 27 volunteers were selected and 9 were randomly assigned to a of the three drug formulations. Subjects were instructed to take the drug during the next episode of migraine and report your pain on a scale of 1 to 10 (10 being the strongest pain) |
+| **Lab_02**    | Shapiro-Wilk Test, F Test and t Test | In this project we will use the “sleep” dataset available in the package as a data source datasets in R. This dataset is the result of a research work with patients who have difficulties sleeping. Patients were separated into 2 groups and each group received a different medication to treat sleep disorders and help increase sleep time |Our aim in this study is to answer the following question: “There is a significant difference in the average sleep of the 2 groups of patients, that is, there is significant difference between the two drugs that help with the sleep disorder?” |
 
 
 ***
 Made By **Camila D'Angelo**
 
-- 🔭 I’m currently working on DS community
+- 🔭 I’m currently working on DS community and Data Science Academy
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me: 
 [LinkeldIn](https://www.linkedin.com/in/camiladangelotempesta/)
